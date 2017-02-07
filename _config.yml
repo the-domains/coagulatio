@@ -1,0 +1,30 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Coagulatio
+layout_spectrum: 0.4301667276304215
+typography_spectrum: 0.8067007279023528
+color:
+  brandStrength: 0.6741571698803455
+  lightness: 0.1204619153868407
+  saturation: 0.9509151447564363
+  rhythmicContrast: 0.9850647172424942
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+content: []
+title: Coagulatio
+description: ultima materia
+github: true
+url: 'https://coagulatio.puro.cc'
+author:
+  name: Rodrigo Franco
+  email: rodrigofesteves@gmail.com
+  url: 'http://coagulatio.puro.cc'
