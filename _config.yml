@@ -1,3 +1,16 @@
+layout_spectrum: 0.6957058069499965
+typography_spectrum: 0.5170022057539018
+color:
+  brandStrength: 0.2019941986284892
+  lightness: 0.3008949638542599
+  saturation: 0.5966457525412044
+  rhythmicContrast: 0.23336614290556623
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Coagulatio
-layout_spectrum: 0.4301667276304215
-typography_spectrum: 0.8067007279023528
-color:
-  brandStrength: 0.6741571698803455
-  lightness: 0.1204619153868407
-  saturation: 0.9509151447564363
-  rhythmicContrast: 0.9850647172424942
-  brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
 content: []
 title: Coagulatio
 description: ultima materia
